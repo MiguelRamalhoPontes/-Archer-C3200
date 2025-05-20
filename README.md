@@ -1,5 +1,9 @@
 # Archer-C3200
-![](https://m.media-amazon.com/images/I/719pecom-lL._AC_UF1000,1000_QL80_.png)
+
+![]([https://m.media-amazon.com/images/I/719pecom-lL._AC_UF1000,1000_QL80_.png](https://m.media-amazon.com/images/I/719pecom-lL._AC_UF1000,1000_QL80_.jpg))
+
+___________
+
 ## Introdução
 Este guia fornece instruções para configurar e programar o roteador Archer C3200, garantindo uma conexão estável e segura.
 
