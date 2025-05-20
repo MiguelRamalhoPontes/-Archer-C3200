@@ -22,7 +22,7 @@ Este guia fornece instruções para configurar e programar o roteador Archer C32
 - Conecte seu computador ao roteador via cabo Ethernet ou Wi-Fi.
 
 ### 2. Configurar a Rede Wi-Fi
-Vá para Configurações Wireless.
+- Vá para Configurações Wireless.
 
 - Defina um nome para sua rede (SSID).
 
